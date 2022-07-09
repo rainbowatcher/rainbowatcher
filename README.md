@@ -9,6 +9,7 @@ I'm a big data developer based in ShangHai, China.
 
 ## 🧰 Languages/Frameworks Im using
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
 <img src="https://hive.apache.org/images/hive_logo_medium.jpg" alt="Hive" width="50" height="50"/>
 <img src="https://flink.apache.org/img/logo/png/100/flink_squirrel_100_color.png" alt="Flink" width="50" height="50"/>
@@ -24,9 +25,11 @@ I'm a big data developer based in ShangHai, China.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"  alt="Selenium" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  alt="Spring" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  alt="Nodejs" width="50" height="50"/>
+</div>
 
 ## Other Tools
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  alt="IDEA" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="50" height="50"/>
@@ -34,6 +37,7 @@ I'm a big data developer based in ShangHai, China.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  alt="Github" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"  alt="Gitlab" width="50" height="50"/>
 <img src="https://cdn.apifox.cn/logo/apifox-logo-512.png"  alt="Gitlab" width="50" height="50"/>
+</div>
 
 ## 📊 Stats
 
