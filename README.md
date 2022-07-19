@@ -1,5 +1,3 @@
-<div style="text-align:center">
-
 ![GitHub followers](https://img.shields.io/github/followers/rainbowatcher?style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/rainbowatcher?style=flat-square)
 
@@ -37,7 +35,7 @@ I'm a big data developer based in ShangHai, China.
 
 ## Other Tools
 
-<div style="display: flex;flex-wrap: wrap;justify-content: space-around">  
+<div style="display: flex !important;flex-wrap: wrap;justify-content: space-around">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  alt="IDEA" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="50" height="50"/>
@@ -49,11 +47,7 @@ I'm a big data developer based in ShangHai, China.
 
 ## 📊 Stats
 
-<div style="display: flex;flex-wrap: wrap;justify-content: space-around">  
-  <img src="https://github-readme-stats.vercel.app/api?username=rainbowatcher&show_icons=true" width="350" height="140"/>
+<div style="display: flex !important;flex-wrap: wrap;justify-content: space-around">  
+  <img src="https://github-readme-stats.vercel.app/api?username=rainbowatcher&show_icons=true&theme=flag-india" width="350" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowatcher&layout=compact" />
-</div>
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rainbowatcher)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 </div>
