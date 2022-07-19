@@ -7,7 +7,7 @@ I'm a big data developer based in ShangHai, China.
 
 ## 📲 Reach me
 
-<div style="display: flex;flex-wrap: wrap;justify-content: space-around">  
+<div>  
   <a href="mailto:rainbow-w@qq.com?subject=Hello rainbowatcher, From Github" target="_blank">
   <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" />
   </a>
@@ -15,7 +15,7 @@ I'm a big data developer based in ShangHai, China.
 
 ## 🧰 Languages/Frameworks Im using
 
-<div style="display: flex;flex-wrap: wrap;justify-content: space-around">  
+<div>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://hive.apache.org/images/hive_logo_medium.jpg" alt="Hive" width="50" height="50"/>
   <img src="https://flink.apache.org/img/logo/png/100/flink_squirrel_100_color.png" alt="Flink" width="50" height="50"/>
@@ -35,7 +35,7 @@ I'm a big data developer based in ShangHai, China.
 
 ## Other Tools
 
-<div style="display: flex !important;flex-wrap: wrap;justify-content: space-around">  
+<div>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  alt="IDEA" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="50" height="50"/>
@@ -47,7 +47,7 @@ I'm a big data developer based in ShangHai, China.
 
 ## 📊 Stats
 
-<div style="display: flex !important;flex-wrap: wrap;justify-content: space-around">  
-  <img src="https://github-readme-stats.vercel.app/api?username=rainbowatcher&show_icons=true&theme=flag-india" width="350" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowatcher&layout=compact" />
+<div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=rainbowatcher&show_icons=true&theme=flag-india" width="400" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowatcher&layout=compact" width="400" height="160"/>
 </div>
