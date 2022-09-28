@@ -60,6 +60,6 @@ I'm a big data developer based in ShangHai, China. you can reach me through the 
 ## 📊 Stats
 
 <div>  
-  <img src="https://github-readme-stats.vercel.app/api?username=rainbowatcher&show_icons=true&theme=flag-india" width="400" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowatcher&layout=compact" width="400" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rainbowatcher&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" width="400" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowatcher&layout=compact&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" width="400" height="160"/>
 </div>
